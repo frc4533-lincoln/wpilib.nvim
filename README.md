@@ -13,7 +13,7 @@ An **UNOFFICIAL** Neovim plugin for FRC
 
 ```
 {
-    '4533-phoenix/wpilib.nvim',
+    'frc4533-lincoln/wpilib.nvim',
 }
 ```
 
